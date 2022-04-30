@@ -254,7 +254,7 @@ lines.markersize:      8           # marker size, in points
 ## relative to font.size, using the following values: xx-small, x-small,
 ## small, medium, large, x-large, xx-large, larger, or smaller
 
-#font.family:  sans-serif
+font.family:  07AkazukinPop
 #font.style:   normal
 #font.variant: normal
 #font.weight:  normal
