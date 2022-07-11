@@ -21,6 +21,8 @@ japanize-matplotlib = "^1.1.3"
 nbqa = "^1.3.1"
 xgboost = "^1.6.0"
 scipy = "^1.8.0"
+japandas = "^0.5.1"
+full-fred = "^0.0.9-alpha.3"
 
 [tool.poetry.dev-dependencies]
 
