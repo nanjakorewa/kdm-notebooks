@@ -23,6 +23,9 @@ xgboost = "^1.6.0"
 scipy = "^1.8.0"
 japandas = "^0.5.1"
 full-fred = "^0.0.9-alpha.3"
+ruptures = "^1.1.7"
+tsod = "^0.1.4"
+tslearn = "^0.5.2"
 
 [tool.poetry.dev-dependencies]
 
