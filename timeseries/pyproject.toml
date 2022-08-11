@@ -26,6 +26,10 @@ full-fred = "^0.0.9-alpha.3"
 ruptures = "^1.1.7"
 tsod = "^0.1.4"
 tslearn = "^0.5.2"
+intrinio = "^0.2.1"
+intrinio-sdk = "^5.21.0"
+yfinance = "^0.1.74"
+QuantStats = "^0.0.59"
 
 [tool.poetry.dev-dependencies]
 
