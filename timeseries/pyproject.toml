@@ -30,6 +30,7 @@ intrinio = "^0.2.1"
 intrinio-sdk = "^5.21.0"
 yfinance = "^0.1.74"
 QuantStats = "^0.0.59"
+mplfinance = "^0.12.9-beta.1"
 
 [tool.poetry.dev-dependencies]
 
