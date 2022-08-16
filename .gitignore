@@ -4,6 +4,12 @@ __pycache__/
 *.py[cod]
 *$py.
 *.py
+*nohup.out
+*Copy*
+
+# data
+timeseries/data/*
+*sample.csv
 
 # C extensions
 *.so
