@@ -5,7 +5,7 @@ name = "timeseries"
 version = "0.1.0"
 
 [tool.poetry.dependencies]
-python = "3.10.4"
+python = "3.9.12"
 jupyter = "^1.0.0"
 matplotlib = "^3.5.1"
 ipykernel = "^6.13.0"
@@ -32,6 +32,7 @@ yfinance = "^0.1.74"
 QuantStats = "^0.0.59"
 mplfinance = "^0.12.9-beta.1"
 wget = "^3.2"
+cpi = "^1.0.11"
 
 [tool.poetry.dev-dependencies]
 
