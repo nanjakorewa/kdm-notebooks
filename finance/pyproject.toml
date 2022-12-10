@@ -13,6 +13,7 @@ jupyter = "^1.0.0"
 ipykernel = "^6.17.1"
 transformers = "^4.24.0"
 nbqa = "^1.5.3"
+black = "^22.12.0"
 
 
 [build-system]
