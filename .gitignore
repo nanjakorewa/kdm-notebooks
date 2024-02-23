@@ -1,4 +1,8 @@
-﻿# Byte-compiled / optimized / DLL files
+﻿# ダウンロード済みIR資料
+finance/misc/S*
+TRMD.csv
+
+# Byte-compiled / optimized / DLL files
 example/
 __pycache__/
 *.py[cod]
